@@ -7,8 +7,9 @@
 If you use this software in your research, please cite:
 
 Braun, D., Kucyi, A. (2025). GradCPTpy: The GradCPT in PsychoPy (Version
-1.0.0) [Computer software). Zenodo. https://doi.org/10.5281/zenodo.14939891
+1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.14939891
 
+## Description
 
 An implementation in [PsychoPy](https://www.psychopy.org/) of the gradual
 onset continuous performance task (GradCPT; originally developed by [Mike
